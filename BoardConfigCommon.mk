@@ -104,7 +104,7 @@ WIFI_DRIVER_FW_PATH_AP      := "/system/etc/wifi/bcmdhd_apsta.bin"
 
 # BlissPop Config Flags
 TARGET_TC_ROM := 4.8-sm
-TARGET_TC_KERNEL := 4.8.sm
+TARGET_TC_KERNEL := 4.8-sm
 BLISSIFY := true
 BLISS_O3 := true
 BLISS_STRICT := true
